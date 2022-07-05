@@ -46,7 +46,8 @@ main {
     font-size: 20px;
 }
 
-.link:hover {
+.link:hover,
+.active {
     color: #F51313;
 }
 
