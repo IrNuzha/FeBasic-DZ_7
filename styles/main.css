@@ -68,3 +68,12 @@ main {
 h1 {
     font-size: 40px;
 }
+
+.img-cont {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+    width: 30%;
+}
